@@ -1,3 +1,4 @@
 # 忽略任何目录下的backup文件夹
 51单片机核心板_backup/
 USB拓展坞_backup/
+STM32电赛单片机开发板_backup/
